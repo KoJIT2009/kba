@@ -1,6 +1,5 @@
 package com.github.kojit2009.ktor.auth.bearer
 
-import com.github.kojit2009.ktor.auth.bearer.bearer
 import io.ktor.application.Application
 import io.ktor.application.call
 import io.ktor.application.install
